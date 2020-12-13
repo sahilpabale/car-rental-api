@@ -1,0 +1,11 @@
+node_modules
+
+db-queries.sql
+
+car-rental-app.code-workspace
+
+.env
+
+.vscode
+
+creds.txt
